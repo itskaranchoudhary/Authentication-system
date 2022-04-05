@@ -1,8 +1,7 @@
 {
-  "name": "firebase-auth-app",
+  "name": "Authentication-system",
   "version": "1.0.0",
-  "description": "🚀Boilerplate Project for Google Authentication with Firebase",
-  "main": "index.js",
+  "description": "",
   "dependencies": {
     "firebase": "^8.6.5"
   },
@@ -11,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itskaranchoudhary/firebase-auth-app.git"
+    "url": "git+https://github.com/itskaranchoudhary/authentication-system.git"
   },
   "author": "Karan Choudhary",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/itskaranchoudhary/firebase-auth-app/issues"
+    "url": "https://github.com/itskaranchoudhary/authentication-system/issues"
   },
-  "homepage": "https://github.com/itskaranchoudhary/firebase-auth-app#readme"
+  "homepage": "https://github.com/itskaranchoudhary/authentication-system#readme"
 }
